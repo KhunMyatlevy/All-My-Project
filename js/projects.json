@@ -55,7 +55,14 @@
         "title":"Ai chatbot",
         "url":"projects/ai_chatbot.html",
         "image": "images/ai chatbot desktop view (1).png" 
+    },
+
+    {
+        "title":"Age distribution of Billionaires",
+        "url":"projects/Age distribution of Billionaires.html",
+        "image": "images/age group 1.png" 
     }
+
 
 
 

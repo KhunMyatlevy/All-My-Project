@@ -48,6 +48,7 @@ body {
     display: flex;
     justify-content: space-between; /* Distributes items with equal space between them */
     gap: 20px; 
+    flex-wrap: wrap;
 }
 
 .project-screenshot img {

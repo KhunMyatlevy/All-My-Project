@@ -1,0 +1,65 @@
+[
+    { 
+        "title": "Static Website", 
+        "url": "projects/html-and-css-website.html",
+        "image": "images/Html and css site desktop view.png"
+    },
+    { 
+        "title": "Django Website", 
+        "url": "projects/django-website.html",
+        "image": "images/Django website desktop view.png"
+    },
+    { 
+        "title": "Calculator Application", 
+        "url": "projects/caculator-application.html",
+        "image": "images/Caculator desktop view.png" 
+    },
+
+    {
+        "title":"Digital clock with date",
+        "url":"projects/Digital-cloock-with-date.html",
+        "image": "images/Digital clock with date desktop view.jpg" 
+    },
+
+    {
+        "title":"Memory Card Game",
+        "url":"projects/memory-card-game.html",
+        "image": "images/memory card game desktop view.jpg" 
+    },
+
+    {
+        "title":"To Do List Application",
+        "url":"projects/to-do-list-application.html",
+        "image": "images/To do list application desktop view.png" 
+    },
+
+    {
+        "title":"Calories Caculator",
+        "url":"projects/calories-caculator.html",
+        "image": "images/calories caculator desktop view 1.png" 
+    },
+
+    {
+        "title":"Tic Tac Toe Game",
+        "url":"projects/tic-tac-toe-game.html",
+        "image": "images/tic tac toe game desktop view.png" 
+    }, 
+
+    {
+        "title":"API Weather Dashboard",
+        "url":"projects/api-weather-dashboard.html",
+        "image": "images/api weather dashboard desktop view.png" 
+    },
+
+    {
+        "title":"Ai chatbot",
+        "url":"projects/ai_chatbot.html",
+        "image": "images/ai chatbot desktop view (1).png" 
+    }
+
+
+
+
+
+
+]

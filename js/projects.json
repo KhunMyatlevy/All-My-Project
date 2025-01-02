@@ -1,5 +1,11 @@
 [
     {
+        "title": "Django Social Media Clone",
+        "url": "projects/django_social_media_clone.html",
+        "image": "images/django social media clone (2).png"
+    },
+
+    {
         "title": "Self-Made vs. Inherited Wealth Analysis",
         "url": "projects/Self-Made vs. Inherited Wealth Analysis.html",
         "image": "images/Self-Made vs. Inherited Wealth Analysis 1.png"

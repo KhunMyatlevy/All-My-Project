@@ -1,5 +1,11 @@
 [
     {
+        "title": "Django Chat App",
+        "url": "projects/django_chat_app.html",
+        "image": "images/django chat app (1).png"
+    },
+
+    {
         "title": "Django Social Media Clone",
         "url": "projects/django_social_media_clone.html",
         "image": "images/django social media clone (2).png"
